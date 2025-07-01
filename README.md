@@ -53,10 +53,9 @@
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| **CI/CD Pipeline** | Docker-based GitHub Actions pipeline with auto deploy | GitHub Actions, Docker | [Repo](https://github.com/Yunus705/cicd-docker-project) |
-| **Terraform AWS Infra** | Full AWS VPC Infra using Terraform | Terraform, AWS | [Repo](https://github.com/Yunus705/aws-terraform-vpc) |
-| **Multi-Cloud Deployment** | Terraform + AWS + GCP infra automation | Terraform, AWS, GCP | [Repo](https://github.com/Yunus705/multicloud-terraform) |
-| **Jenkins Maven Deploy** | CI/CD of Java App using Jenkins & Tomcat | Jenkins, Maven, EC2 | [Repo](https://github.com/Yunus705/mvn-project) |
+| **Multi-Tier Web Application** | PHP Based Web Application Deployment on AWS | AWS, Linux, Apache, PHP, MySQL | [Repo](https://github.com/Yunus705/Multi-Tier-Web-Application) |
+| **CI/CD Pipeline** | CI/CD Pipeline for Maven Web Application using Jenkins |  Jenkins, Git, Tomcat, AWS EC2  | [Repo](https://github.com/Yunus705/mvn-project) |
+| **Multi-Cloud Deployment** | Terraform + AWS + GCP infra automation | Terraform, AWS, GCP | [Repo](https://github.com/Yunus705/ci-cd-docker/tree/main/PROJECT-2-multi-cloud-deploy) |
 
 ---
 
