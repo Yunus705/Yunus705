@@ -7,20 +7,44 @@
 
 ---
 
-### 🧰 Skills & Tools
-
-- ☁️ **Cloud:** AWS (EC2, S3, RDS, CloudFront, VPC, IAM, SNS)
-- 🏗️ **Infrastructure as Code:** Terraform, CloudFormation
-- 🔁 **CI/CD:** GitHub Actions, Jenkins
-- 🐳 **Containers:** Docker, Docker Compose
-- ☸️ **Kubernetes:** Minikube, k8s on EC2
-- 🔍 **Monitoring:** CloudWatch
-- 🐧 **OS:** Ubuntu, Amazon Linux
-- 🐍 **Scripting:** Bash, Python (basic)
+### 🧰 Languages and Tools:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40" />
+</p>
 
 ---
 
-### 🔥 Featured Projects
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yunus705&show_icons=true&theme=default&count_private=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yunus705&layout=compact" />
+</p>
+
+---
+
+### 📬 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/yunussharif705/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" width="30" />
+  </a>
+  <a href="mailto:yunussharif705@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" width="30" />
+  </a>
+</p>
+
+---
+
+### 🔥 Highlighted Projects
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
@@ -28,13 +52,6 @@
 | **Terraform AWS Infra** | Full AWS VPC Infra using Terraform | Terraform, AWS | [Repo](https://github.com/Yunus705/aws-terraform-vpc) |
 | **Multi-Cloud Deployment** | Terraform + AWS + GCP infra automation | Terraform, AWS, GCP | [Repo](https://github.com/Yunus705/multicloud-terraform) |
 | **Jenkins Maven Deploy** | CI/CD of Java App using Jenkins & Tomcat | Jenkins, Maven, EC2 | [Repo](https://github.com/Yunus705/mvn-project) |
-
----
-
-### 📫 Connect with Me
-
-- 💼 [LinkedIn](https://github.com/Yunus705)
-- ✉️ yunussharif705@gmail.com
 
 ---
 
