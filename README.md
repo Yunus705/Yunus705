@@ -37,13 +37,13 @@
 
 ---
 
-### 📬 Connect with me:
+### 🤝 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/yunussharif705/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
   </a>
-  <a href="mailto:yunussharif705@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" width="30" />
+  <a href="mailto:yunussharif705@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" height="40" alt="Gmail logo"/>
   </a>
 </p>
 
@@ -59,4 +59,7 @@
 | **Jenkins Maven Deploy** | CI/CD of Java App using Jenkins & Tomcat | Jenkins, Maven, EC2 | [Repo](https://github.com/Yunus705/mvn-project) |
 
 ---
+
+<p align="center">Thank you for visiting my profile! 🙌</p>
+
 
