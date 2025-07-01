@@ -9,7 +9,7 @@
 
 ### 🧰 Languages and Tools:
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
@@ -24,11 +24,16 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yunus705&show_icons=true&theme=default&count_private=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yunus705&layout=compact" />
-</p>
+
+<div align="center">
+  <a href="https://github.com/Yunus705">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Yunus705&theme=default&show_icons=true&count_private=true" />
+  </a>
+  <a href="https://github.com/Yunus705">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yunus705&layout=compact&langs_count=8&theme=default"/>
+  </a>
+</div>
+
 
 ---
 
